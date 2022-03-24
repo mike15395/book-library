@@ -1,0 +1,12 @@
+.nav{
+    background-color: black;
+    height: 10vh;
+    color: white;
+    display: flex;
+    
+
+}
+.nav-text{
+    margin-left: 30px;
+    font-size: 20px;
+}
